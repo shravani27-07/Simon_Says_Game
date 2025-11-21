@@ -19,3 +19,8 @@ Repeat sequences of colors and sounds to test and improve your memory skills.
 
    https://github.com/shravani27-07/Simon_Says_Game.git
 2. Open `index.html` in your browser
+
+### Live Demo 🚀
+Paste the link in the Website field.
+
+https://simon-says-game-woad-omega.vercel.app
