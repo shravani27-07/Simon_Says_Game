@@ -16,5 +16,6 @@ Repeat sequences of colors and sounds to test and improve your memory skills.
 
 ## How to Run Locally
 1. Clone this repository:
+
    https://github.com/shravani27-07/Simon_Says_Game.git
 2. Open `index.html` in your browser
